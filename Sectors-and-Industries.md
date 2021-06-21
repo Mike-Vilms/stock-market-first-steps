@@ -1,20 +1,21 @@
 # [Market Sectors](https://corporatefinanceinstitute.com/resources/knowledge/finance/the-sp-sectors/):
 
 ## Table of Contents
-- **I. Information Technology**
-  - **I.I [Software-Application](#ii-software-application)**
-  - **I.II [Semiconductors](#iii-semiconductors)**
+- **I. [Information Technology](#i-information-technology)**
+  - **I.I. [Software-Application](#ii-software-application)**
+  - **I.II. [Semiconductors](#iii-semiconductors)**
 - **II. Health Care**
-- **III. Financials**
+- **III. [Financials](#iii-financials)**
+  - **III.I. [Asset Management](#iiii-asset-management)**
 - **IV. Consumer Discretionary**
 - **V. [Communication Services](#v-communication-services)**
 - **VI. Industrials**
 - **VII. [Consumer Defensive](#vii-consumer-defensive)**
-  - **VII.I [Beverages-Non-Alcoholic](#viii-beverages-non-alcoholic)**
-  - **VII.II [Grocery Stores](#viiii-grocery-stores)**
-  - **VII.II [Discount Stores](#viiiii-discount-stores)**
+  - **VII.I. [Beverages-Non-Alcoholic](#viii-beverages-non-alcoholic)**
+  - **VII.II. [Grocery Stores](#viiii-grocery-stores)**
+  - **VII.III. [Discount Stores](#viiiii-discount-stores)**
 - **VIII. Energy**
-  - **VIII.I [Oil and Gas Midstream](#viiii-oil-and-gas-midstream)**
+  - **VIII.I. [Oil and Gas Midstream](#viiii-oil-and-gas-midstream)**
 - **IX. Utilities**
 - **X. Real Estate**
 - **XI. Materials**
@@ -49,6 +50,14 @@ Health care consists of medical supply companies, pharmaceutical companies, and 
 
 ## III. Financials
 The financial sector includes all companies involved in finance, investing, and the movement or storage of money. It includes banks, credit card issuers, credit unions, insurance companies, and mortgage real estate investment trusts (REITs). Companies within this sector are usually relatively stable, as many are mature, well-established firms. Banks in this sector include Bank of America Corp, JPMorgan Chase & Co., and Goldman Sachs. Other notable sector names include Berkshire Hathaway, American Express, and Aon plc.
+
+## III.I. Asset Management
+Ticker | Title | YF Link
+--- | --- | ---
+**"BLK"** | BlackRock, Inc. | **[YF](https://finance.yahoo.com/quote/BLK)**
+**"BX"** | The Blackstone Group Inc. | **[YF](https://finance.yahoo.com/quote/BX)**
+**"BK"** | The Bank of New York Mellon Corporation | **[YF](https://finance.yahoo.com/quote/BK)**
+**"STT"** | State Street Corporation | **[YF](https://finance.yahoo.com/quote/STT)**
 
 ## IV. Consumer Discretionary
 Discretionary consumer products are luxury items or services that are not necessary for survival. The demand for these items depends on economic conditions and the wealth of individuals. Products include cars, jewelry, sporting goods, and electronic devices. Luxury experiences include trips, stays at hotels, or dining in a posh restaurant. Most companies in this sector are easily recognized. Some examples include Starbucks, Best Buy, and Amazon.
@@ -97,13 +106,16 @@ Ticker | Title | YF Link
 The energy sector consists of all companies that play a part in the oil, gas, and consumable fuels business. This includes companies that find, drill, and extract the commodity. It also includes the companies that refine the material and companies that provide or manufacturer the equipment used in the refinement process. Companies such as Exxon Mobil and Chevron extract and refine gas, while companies like Kinder Morgan transport fuel to gas stations.
 
 ### VIII.I Oil and Gas Midstream
+- Midstream is a term used to describe one of the three major stages of oil and gas industry operations. Midstream activities include the processing, storing, transporting and marketing of oil, natural gas, and natural gas liquids.
+- The two other major stages are upstream, which refers to raw crude oil and natural gas production, and downstream, which refers to the refining of crude oil into gasoline, diesel, jet, and other fuels. Today, many large oil companies undertake all streams of the process and are known as integrated oil companies.
+- [See details](#)
+
 Ticker | Title | YF Link
 --- | --- | ---
 | **MMP** | Magellan Midstream Partners, L.P. | **[YF](https://finance.yahoo.com/quote/MMP)** |
-#### Notes
-- Products that could be transported, stored, distributed or otherwise handled through petroleum pipelines and terminals:
-  - *Refined products*
-  - 
+| **PAA** | Plains All American Pipeline, L.P. | **[YF](https://finance.yahoo.com/quote/PAA)** |
+| **ET** | Energy Transfer LP | **[YF](https://finance.yahoo.com/quote/ET)** |
+| **WES** | Western Midstream Partners, LP | **[YF](https://finance.yahoo.com/quote/WES)** |
 
 ## IX. Utilities
 Utility companies provide or generate electricity, water, and gas to buildings and households. For example, Duke Energy generates and distributes electricity, and Southern Company provides gas and electricity. Many utility companies are developing more renewable energy sources.
