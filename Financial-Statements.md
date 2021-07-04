@@ -75,11 +75,53 @@ property, plant, equipment, intangibles, investments, and deferred charges.
 - **Inventories** are goods held for sale as part of a company’s normal business operations. With the exception of certain service organizations, inventories are essential and important assets of companies.
 - The **inventory equation** is useful in understanding inventory flows. For a merchandising company:
   - **Beginning inventories + Net purchases - Cost of goods sold = Ending inventories**
-```##### Flow of Costs```
+
+#### ```Flow of Costs```
 - The costs of inventories are initially recorded on the balance sheet.
 - As the inventories are sold, these costs are removed from the balance sheet and flow into the income statement as cost of goods sold (COGS).
 - Costs cannot be in two places at the same time; either they remain on the balance sheet (as a future expense) or are recognized currently in the income statement and reduce profitability to match against sales revenue.
 -  If all inventories acquired or manufactured during the period are sold, then COGS is equal to the cost of the goods purchased or manufactured. When inventories remain at the end of the accounting period, however, it is important to determine which inventories have been sold and which costs remain on the balance sheet.
 - ![image](https://user-images.githubusercontent.com/85560091/123995881-5e92d380-d994-11eb-9779-6e326c023e9d.png)
+- There are **three GAAP options** in determining how to calculate COGS against sales; Let's consider next scenario:
+```
+Inventory on January 1, Year 2 40 units @ $500 each $20,000
+Inventories purchased during the year 60 units @ $600 each 36,000
+Cost of goods available for sale 100 units $56,000
+```
+- **"First-In, First-Out"**: This method assumes that the first units purchased are the first units sold;
+```
+Sales $24,000
+COGS (30 @ $500 each) 15,000
+Gross profit $ 9,000
+```
+- **"Last-In, First-Out"**: Under the LIFO inventory costing assumption, the last units purchased are the first to be sold; LIFO is not allowed under IFRS as a method for valuing inventories.
+```
+Sales $24,000
+COGS (30 @ $500 each) 15,000
+Gross profit $ 9,000
+```
+- **"Average Cost"**: COGS is computed as a weighted average of the total cost of goods available for sale divided by the number of units available for sale;
+```
+Sales $24,000
+COGS (30 @ $560 each) 16,800
+Gross profit $ 7,200
+```
+- The income statements under the three methods, then, are as follows:
+
+Method | Sales | COGS | Gross Profit 
+--- | --- | --- | --- 
+FIFO | $24,000 | $15,000 | $9,000
+LIFO | 24,000 | 18,000 | 6,000
+Average cost |24,000 | 16,800 | 7,200
+
+- **As the examples presented here highlight, gross profit can be affected by the company’s choice of its inventory costing method. In periods of rising prices, FIFO produces higher gross profits than LIFO because lower cost inventories are matched against sales revenues at current market prices. This is sometimes referred to as FIFO’s phantom profits as the gross profit is actually a sum of two components: an economic profit and a holding gain.**
+  - The economic profit is equal to the number of units sold multiplied by the difference between the sales price and the replacement cost of the inventories
+  - The holding gain is the increase in replacement cost since the inventories were acquired and is equal to the number of units sold multiplied by the difference between the current replacement cost and the original acquisition cost:
+
+### 2.2 Long-Term Assets
+- Long-term assets are resources that are used to generate operating revenues (or reduce operating costs) for more than one period.
+  - The most common type of long-term asset is tangible fixed assets such as property, plant, and equipment. 
+  - Long-term assets also include intangible assets such as patents, trademarks, copyrights, and goodwill.
+
 
 ## III. Statement of Cash Flows
