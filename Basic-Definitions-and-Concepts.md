@@ -1,8 +1,25 @@
 # Basic Definitions and Concepts
+- [Enterprise Value](#Enterprise-Value)
 - [Free Cash Flow (FCF)](#free-cash-flow)
 - [DCF Model](#dcf-model)
 - [Net Present Value (NPV)](#net-present-value)
 - [Internal Rate of Return (IRR)](#internal-rate-of-return)
+
+## Enterprise Value
+- Enterprise Value (EV) is the measure of a company’s total value. It looks at the entire market value rather than just the equity value, so all ownership interests and asset claims from both debt and equity are included. EV can be thought of as the effective cost of buying a company or the theoretical price of a target company (before a takeover premium is considered).
+- **EV = MC + Total Debt − C**
+  - *MC = Market capitalization; equal to the current stock price multiplied by the number of outstanding stock shares*
+  - *Total debt = Equal to the sum of short-term and long-term debt*
+  - *C = Cash and cash equivalents; the liquid assets of a company, but may not include marketable securities*
+- **EV = Common Shares + Preferred Shares + Market Value of Debt + Minority Interest – Cash and Equivalents**
+- Enterprise value (EV) could be thought of like the theoretical takeover price if a company were to be bought.
+- The value of a firm's debt, for example, would need to be paid off by the buyer when taking over a company. As a result, enterprise value provides a much more accurate takeover valuation because it includes debt in its value calculation.
+### Why is Enterprise Value Used?
+
+### Links
+- https://corporatefinanceinstitute.com/resources/knowledge/valuation/what-is-enterprise-value-ev/
+- https://www.investopedia.com/terms/e/enterprisevalue.asp
+- https://www.youtube.com/watch?v=hVlnyl1R0FQ
 
 ## Free Cash Flow
 - Free cash flow (FCF) measures a company’s financial performance. It shows the cash that a company can produce after deducting the purchase of assets such as property, equipment, and other major investments from its operating cash flow. In other words, FCF measures a company’s ability to produce what investors care most about: cash that’s available to be distributed in a discretionary way.
