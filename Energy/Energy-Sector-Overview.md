@@ -4,6 +4,8 @@
 
 - **[Oil and Gas Industry](#Oil-and-Gas-Industry)**
   - **[Upstream](#Upstream)**
+    - **[Upstream Overview](#Upstream-Overview)**
+    - **[Upstream Players](#Upstream-Players)**
 - **[Important Definitions and Concepts](#Important-Definitions-and-Concepts)**
   - **[Wildcat Drilling](#Wildcat-Drilling)**
 
@@ -15,7 +17,7 @@
 ### Upstream
 - Aslo known as Exploration and Production(E&P) segment
 
-#### Overview
+#### Upstream Overview
 - E&P activities:
   - Searching
   - Recovering
@@ -39,6 +41,8 @@
   - Horisontal Drilling
   - Hydraulic Fracturing, or Fracking
   - Subsea Engineering (Deepwater Drilling)
+#### Players
+
 
 #### Links:
 - https://www.youtube.com/watch?v=gIWH5b1_bRY
