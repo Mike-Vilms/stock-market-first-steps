@@ -1,4 +1,5 @@
 # Energy Sector Overview
+- Important Definitions and Concepts
 
 - Oil and Gas Industry
   - Upstream
@@ -15,12 +16,10 @@
 ## Oil and Gas Industry
 - https://www.investopedia.com/investing/oil-gas-industry-overview/
 - https://www.youtube.com/watch?v=k4cVxGndh9g
-
+- https://www.investopedia.com/articles/economics/08/investing-in-oil-markets.asp
 ### Upstream
-#### Links:
-- https://www.youtube.com/watch?v=gIWH5b1_bRY
-#### Overview
 - Aslo known as Exploration and Production(E&P) segment
+#### Overview
 - E&P activities:
   - Searching
   - Recovering
@@ -29,3 +28,11 @@
   - Where to locate them?
   - How deep and how far to drill them?
   - How to design, construct, operate and manage them?
+- **Exploration**:
+  -  Obtaining a lease from the owner of onshore or ofshore acreage thought to contain oil or gas
+  -  Conducting geological and geophysical surveys to determine the first well site for "wildcat drilling" 
+#### Links:
+- https://www.youtube.com/watch?v=gIWH5b1_bRY
+
+## Important Definitions and Concepts
+### Wildcat Drilling
