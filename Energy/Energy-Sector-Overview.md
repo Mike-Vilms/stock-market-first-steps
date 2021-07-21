@@ -23,11 +23,18 @@
   - Where to locate them?
   - How deep and how far to drill them?
   - How to design, construct, operate and manage them?
-- **Exploration**:
-  -  Obtaining a lease from the owner of onshore or ofshore acreage thought to contain oil or gas
-  -  Conducting geological and geophysical surveys to determine the first well site for "wildcat drilling" 
+- Types of activities:
+  - **Exploration**:
+    -  Obtaining a lease from the owner of onshore or ofshore acreage thought to contain oil or gas
+    -  Conducting geological and geophysical surveys to determine the first well site for "wildcat drilling" 
+  - **Drilling**: creating a borehole in the ground that will eventually become an oil or gas well; This operations might be executed by contractors and service companies in the "Oilfield Services" business sector
+  
+
+- **Classification of Wells**:
+  - Deviated Wells
 #### Links:
 - https://www.youtube.com/watch?v=gIWH5b1_bRY
 
 ## Important Definitions and Concepts
 ### Wildcat Drilling
+- https://www.investopedia.com/terms/w/wildcatdrilling.asp
