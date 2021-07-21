@@ -42,7 +42,18 @@
   - Hydraulic Fracturing, or Fracking
   - Subsea Engineering (Deepwater Drilling)
 #### Upstream Players
-
+- **Majors**: also called as "Integrated Oil Companies" operate assets in other segments of the industry
+  - Exxon
+  - Chevron
+  - BP
+  - Shell 
+- **NOCs**: National Oil Companies that are owned and managed by governments around the world
+  - Saudi Aramco
+  - Pemex
+- **Independents**: companies that are not integrated into other segments of industry; These are the companies that concentrate solely on finding and producing oil and gas
+  - Apache
+  - Anadarko
+- **Oilfield Services**: Companies that provide specialized equipment, services and technichal skills needed for exploring, drilling and completing, testing, producing and maintaining crude oil and natural gas; They typically do not produce oil and gas or own assets that contain hydrocarbon reserves
 
 #### Links:
 - https://www.youtube.com/watch?v=gIWH5b1_bRY
