@@ -41,7 +41,7 @@
   - Horisontal Drilling
   - Hydraulic Fracturing, or Fracking
   - Subsea Engineering (Deepwater Drilling)
-#### Players
+#### Upstream Players
 
 
 #### Links:
