@@ -4,7 +4,6 @@
 
 - [Oil and Gas Industry](#Oil-and-Gas-Industry)
   - [Upstream](#Upstream)
-    - 
 - [Important Definitions and Concepts](#Important-Definitions-and-Concepts)
   - [Wildcat Drilling](#Wildcat-Drilling) 
 
