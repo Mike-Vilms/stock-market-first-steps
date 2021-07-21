@@ -24,6 +24,11 @@
   - Where to locate them?
   - How deep and how far to drill them?
   - How to design, construct, operate and manage them?
+- Upstream business characteristics:
+  - High Risk - High Reward
+  - Highly Regulated
+  - Impact by Global Polictics
+  - Technology Intensive 
 - Types of activities:
   - **Exploration**:
     -  Obtaining a lease from the owner of onshore or ofshore acreage thought to contain oil or gas
@@ -34,8 +39,7 @@
   - Horisontal Drilling
   - Hydraulic Fracturing, or Fracking
   - Subsea Engineering (Deepwater Drilling)
-- **Classification of Wells**:
-  - Deviated Wells
+
 #### Links:
 - https://www.youtube.com/watch?v=gIWH5b1_bRY
 
