@@ -1,10 +1,10 @@
 # Midstream
-Ticker | Title | YF Link
+Ticker | Title | Details | YF Link
 --- | --- | ---
-| **MMP** | Magellan Midstream Partners, L.P. | **[YF](https://finance.yahoo.com/quote/MMP)** |
-| **PAA** | Plains All American Pipeline, L.P. | **[YF](https://finance.yahoo.com/quote/PAA)** |
-| **ET** | Energy Transfer LP | **[YF](https://finance.yahoo.com/quote/ET)** |
-| **WES** | Western Midstream Partners, LP | **[YF](https://finance.yahoo.com/quote/WES)** |
+| **MMP** | Magellan Midstream Partners, L.P. | Details | **[YF](https://finance.yahoo.com/quote/MMP)** |
+| **PAA** | Plains All American Pipeline, L.P. | Details | **[YF](https://finance.yahoo.com/quote/PAA)** |
+| **ET** | Energy Transfer LP | Details | **[YF](https://finance.yahoo.com/quote/ET)** |
+| **WES** | Western Midstream Partners, LP | Details | **[YF](https://finance.yahoo.com/quote/WES)** |
 
 ## Maps
 ### Crude Oil Pipelins and Refineries
