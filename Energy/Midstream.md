@@ -1,6 +1,6 @@
 # Midstream
 Ticker | Title | Details | YF Link
---- | --- | ---
+--- | --- | --- | ---
 | **MMP** | Magellan Midstream Partners, L.P. | Details | **[YF](https://finance.yahoo.com/quote/MMP)** |
 | **PAA** | Plains All American Pipeline, L.P. | Details | **[YF](https://finance.yahoo.com/quote/PAA)** |
 | **ET** | Energy Transfer LP | Details | **[YF](https://finance.yahoo.com/quote/ET)** |
