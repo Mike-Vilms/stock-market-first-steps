@@ -19,3 +19,20 @@ https://www.eia.gov/state/maps.php
 
 ## Players
 ### Enterprise Products Partners
+- https://www.enterpriseproducts.com/investors
+- https://www.enterpriseproducts.com/about-us/system-map
+- Operations include:
+  - Natural gas gathering, treating, processing, transportation and storagg
+  -  NGL transportation, fractionation, storage, and marine terminals (including those used to export liquefied petroleum
+gases, or “LPG,” and ethane);
+  - Crude oil gathering, transportation, storage, and marine terminals; 
+  - Propylene production facilities (including propane dehydrogenation (“PDH”) facilities)(???), butane isomerization(???), octane
+enhancement(???), isobutane dehydrogenation (“iBDH”) and high purity isobutylene (“HPIB”) production facilities(???); 
+  - Petrochemical and refined products transportation, storage, and marine terminals (including those used to export ethylene
+and polymer grade propylene (“PGP”); and 
+  - A marine transportation business that operates on key U.S. inland and intracoastal waterway systems. 
+- Business Segments
+  - NGL Pipelines & Services
+  - Crude Oil Pipelines & Services
+  - Natural Gas Pipelines & Services
+  - Petrochemical & Refined Products Services
