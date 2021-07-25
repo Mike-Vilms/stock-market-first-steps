@@ -24,3 +24,6 @@ Ticker | Title | Details | YF Link
 ![image](https://user-images.githubusercontent.com/85560091/126886317-68e04478-457f-4680-8d2f-dc34fd7589f9.png)
 
 - **Traditional Oral**: Traditional Oral products do contain tobacco, but there is no burning.
+![image](https://user-images.githubusercontent.com/85560091/126886353-e7dceab4-ba29-4d42-84f0-12c80c2e5ec9.png)
+
+- 
