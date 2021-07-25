@@ -35,3 +35,8 @@ Ticker | Title | Details | YF Link
 - **Vapour**:Handheld, battery-powered devices that heat a liquid (called an e-liquid, usually containing nicotine) and creates a vapour to be inhaled.
 ![image](https://user-images.githubusercontent.com/85560091/126886614-5ad24dc0-a069-4526-8ee9-7388bb8ddc94.png)
 
+### Four Geographical Regions
+USA | AmSSA | ENA | APME
+--- | --- | --- | ---
+| United States of America | Americas and Sub-Saharan Africa | Europe and North Africa | Asia-Pacific and Middle East  |
+| £11.5bn | £3.8bn | £6.0bn | £6.0bn|
