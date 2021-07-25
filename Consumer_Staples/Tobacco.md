@@ -26,4 +26,8 @@ Ticker | Title | Details | YF Link
 - **Traditional Oral**: Traditional Oral products do contain tobacco, but there is no burning.
 ![image](https://user-images.githubusercontent.com/85560091/126886353-e7dceab4-ba29-4d42-84f0-12c80c2e5ec9.png)
 
-- 
+- **Modern Oral**: This is our most recent innovation across oral products – offering consumers a satisfying experience with a range of different flavours. Two formulations are available: 
+  - one containing lower levels of tobacco, 
+  - and one that contains nicotine but no tobacco.
+![image](https://user-images.githubusercontent.com/85560091/126886387-d78140ba-30a8-4a91-a031-2363874f7e41.png)
+
