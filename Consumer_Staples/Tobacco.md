@@ -30,4 +30,6 @@ Ticker | Title | Details | YF Link
   - one containing lower levels of tobacco, 
   - and one that contains nicotine but no tobacco.
 ![image](https://user-images.githubusercontent.com/85560091/126886387-d78140ba-30a8-4a91-a031-2363874f7e41.png)
+- **THPs** do not burn tobacco, so no smoke (which is a key source of toxicants) is produced. Research indicates that by heating tobacco rather than burning it, THPs have the potential to be reduced-risk compared to smoking.
+![image](https://user-images.githubusercontent.com/85560091/126886556-040f675c-cf52-4ca1-927e-c1588fa2ebea.png)
 
