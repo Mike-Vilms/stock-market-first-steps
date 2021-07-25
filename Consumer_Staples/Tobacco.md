@@ -39,4 +39,4 @@ Ticker | Title | Details | YF Link
 USA | AmSSA | ENA | APME
 --- | --- | --- | ---
 | United States of America | Americas and Sub-Saharan Africa | Europe and North Africa | Asia-Pacific and Middle East  |
-| £11.5bn | £3.8bn | £6.0bn | £6.0bn|
+| £11.5bn | £3.8bn | £6.0bn | £4.5bn |
