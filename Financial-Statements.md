@@ -1,5 +1,6 @@
 # Financial Statements
 - **[I. Income Statement](#I-Income-Statement)**
+  - **[1.1 Revenues and Gains](11-Revenues-and-Gains)** 
 - **[II. Balance Sheet](#II-Balance-Sheet)**
   - **[2.1 Current Assets](#21-Current-Assets)**
     - **[2.1.1 Cash And Cash Equivalents](#211-Cash-And-Cash-Equivalents)**
@@ -19,7 +20,7 @@
   - **[3.3 Cash Flow from Financing Activities](#33-Cash-Flow-from-Financing-Activities)**
 
 ## I. Income Statement
-
+### 1.1 Revenues and Gains
 
 ## II. Balance Sheet
 ### 2.1 Current Assets
