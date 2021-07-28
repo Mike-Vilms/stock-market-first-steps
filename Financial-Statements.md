@@ -14,6 +14,9 @@
   - 2.4 Non-Current Liabilities
   - 2.5 Shareholder Equity
 - III. Statement of Cash Flows
+  - [3.1 Cash Flow from Operating Activities](#31-Cash-Flow-from-Operating-Activities)
+  - [3.2 Cash Flow from Investing Activities](#32-Cash-Flow-from-Investing-Activities)
+  - [3.3 Cash Flow from Financing Activities](#33-Cash-Flow-from-Financing-Activities)
 
 ## I. Income Statement
 
@@ -125,3 +128,6 @@ Average cost |24,000 | 16,800 | 7,200
 
 
 ## III. Statement of Cash Flows
+### 3.1 Cash Flow from Operating Activities
+### 3.2 Cash Flow from Investing Activities
+### 3.3 Cash Flow from Financing Activities
