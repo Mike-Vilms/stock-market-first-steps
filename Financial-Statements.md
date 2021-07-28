@@ -21,7 +21,11 @@
 
 ## I. Income Statement
 ### 1.1 Revenues and Gains
-
+- **Revenues** are earned inflows or prospective earned inflows of cash that arise **from a company’s ongoing business activities**. These include cash inflows such as cash sales, and prospective cash inflows such as credit sales.
+- **Gains** are earned inflows of cash arising from transactions and events **unrelated to a company’s ongoing business activities**.
+- The distinction between revenues and gains is based on the ongoing business activities that produce revenues.
+- Revenues are expected to persist indefinitely for a going concern. In contrast, gains are nonrecurring. This distinction is important for analysis, especially when determining the recurring component of income.
+- 
 ## II. Balance Sheet
 ### 2.1 Current Assets
 - Assets are resources controlled by a company for the purpose of generating profit. 
