@@ -15,3 +15,8 @@ Business Segments | Net Sales | % of Net Sales | U.S. Government | International
 | **Space** | Lockheed Martin Corporation | [Details](#Lockheed-Martin-Corporation) | **[YF](https://finance.yahoo.com/quote/LMT)** | wwerf |
 
 ### Aeronautics
+- In 2020, our Aeronautics business segment generated net sales of $26.3 billion, which represented 40% of our total consolidated net sales.
+- Aeronautics’ customers include the military services, 
+  - principally the **U.S. Air Force and U.S. Navy**,
+  - and various other government agencies of the U.S. and other countries, as well as commercial and other customers.
+-  Net sales from Aeronautics’ **combat aircraft products** and services represented **33% of our total consolidated net sales** in 2020 and 32% in both 2019 and 2018.
