@@ -36,4 +36,6 @@ Business Segments | Net Sales | % of Net Sales | U.S. Government | International
      - In 2020, the U.S. Government awarded contracts for new production F-16 Block 70/72 aircraft for Taiwan (66 aircraft) and Bulgaria (8 aircraft). 
      - As of December 31, 2020, we have 128 F-16 aircraft in backlog. 
   - **```F-22 Raptor```** - air dominance and multi-role fifth generation stealth fighter.
-![image](https://user-images.githubusercontent.com/85560091/130383901-1ddae5fe-53c4-4700-b5bd-fdd9a76fed60.png)
+    - ![image](https://user-images.githubusercontent.com/85560091/130383901-1ddae5fe-53c4-4700-b5bd-fdd9a76fed60.png)
+    - Aeronautics continues to provide modernization and sustainment activities for the U.S. Air Force’s F-22 aircraft fleet. 
+    - The modernization program comprises upgrading existing systems requirements, developing new systems requirements, adding capabilities and enhancing the performance of the weapon systems. 
