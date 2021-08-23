@@ -10,7 +10,7 @@ Ticker | Title | Details | YF Link
 Business Segments | Net Sales | % of Net Sales | U.S. Government | International customers
 --- | --- | --- | --- | ---
 | **[Aeronautics](#Aeronautics)** | $26.3 billion | 40% | 69% | 31% |
-| **Missiles and Fire Control (MFC)** | Lockheed Martin Corporation | [Details](#Lockheed-Martin-Corporation) | **[YF](https://finance.yahoo.com/quote/LMT)** | qwef |
+| **[Missiles and Fire Control (MFC)](#Missiles-and-Fire-Control)** |  $11.3 billion | 17% | 75% | 25% |
 | **Rotary and Mission Systems (RMS)** | Lockheed Martin Corporation | [Details](#Lockheed-Martin-Corporation) | **[YF](https://finance.yahoo.com/quote/LMT)** | qwr |
 | **Space** | Lockheed Martin Corporation | [Details](#Lockheed-Martin-Corporation) | **[YF](https://finance.yahoo.com/quote/LMT)** | wwerf |
 
@@ -39,3 +39,5 @@ Business Segments | Net Sales | % of Net Sales | U.S. Government | International
     - ![image](https://user-images.githubusercontent.com/85560091/130383901-1ddae5fe-53c4-4700-b5bd-fdd9a76fed60.png)
     - Aeronautics continues to provide modernization and sustainment activities for the U.S. Air Force’s F-22 aircraft fleet. 
     - The modernization program comprises upgrading existing systems requirements, developing new systems requirements, adding capabilities and enhancing the performance of the weapon systems. 
+
+### Missiles and Fire Control
