@@ -11,8 +11,8 @@ Business Segments | Net Sales | % of Net Sales | U.S. Government | International
 --- | --- | --- | --- | ---
 | **[Aeronautics](#Aeronautics)** | $26.3 billion | 40% | 69% | 31% |
 | **[Missiles and Fire Control (MFC)](#Missiles-and-Fire-Control)** |  $11.3 billion | 17% | 75% | 25% |
-| **Rotary and Mission Systems (RMS)** | Lockheed Martin Corporation | [Details](#Lockheed-Martin-Corporation) | **[YF](https://finance.yahoo.com/quote/LMT)** | qwr |
-| **Space** | Lockheed Martin Corporation | [Details](#Lockheed-Martin-Corporation) | **[YF](https://finance.yahoo.com/quote/LMT)** | wwerf |
+| **[Rotary and Mission Systems (RMS)](#Rotary-and-Mission-Systems)** | $16.0 billion | 25% | 72% | 25% |
+| **[Space](#Space)** | $11.9 billion | 18% | 87% | 13% |
 
 ### Aeronautics
 - In 2020, our Aeronautics business segment generated net sales of $26.3 billion, which represented 40% of our total consolidated net sales.
