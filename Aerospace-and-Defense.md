@@ -19,4 +19,18 @@ Business Segments | Net Sales | % of Net Sales | U.S. Government | International
 - Aeronautics’ customers include the military services, 
   - principally the **U.S. Air Force and U.S. Navy**,
   - and various other government agencies of the U.S. and other countries, as well as commercial and other customers.
--  Net sales from Aeronautics’ **combat aircraft products** and services represented **33% of our total consolidated net sales** in 2020 and 32% in both 2019 and 2018.
+- Net sales from Aeronautics’ **combat aircraft products** and services represented **33% of our total consolidated net sales** in 2020 and 32% in both 2019 and 2018.
+- Aeronautics’ major programs:
+  - **```F-35 Lightning II Joint Strike Fighter```** - international multi-role, multi-variant, fifth generation stealth fighter;
+    - ![image](https://user-images.githubusercontent.com/85560091/130383336-f9b8d3f5-bb4a-4cf7-aae0-6f922f305114.png)
+    - The F-35 program is our largest program, generating 28% of our total consolidated net sales, as well as 69% of Aeronautics’ net sales in 2020. 
+    - **Production of the aircraft is expected to continue for many years given the U.S. Government’s current inventory objective of 2,456 aircraft for the U.S. Air Force, U.S. Marine Corps and U.S. Navy; commitments from our seven international partner countries and six international customers; as well as expressions of interest from other countries**
+    - In 2020 we delivered 120 aircraft, including 46 to international customers, resulting in total deliveries of 611 production aircraft since program inception.
+  - **```C-130 Hercules```** - international tactical airlifter;
+     - ![image](https://user-images.githubusercontent.com/85560091/130383427-dde06fac-ad8d-4ef6-a9e2-3f7f2ce4849a.png)
+     - Aeronautics produces and provides support and sustainment services for the C-130J Super Hercules, as well as upgrades and support services for the legacy C-130 Hercules worldwide fleet. 
+     - We delivered 22 C-130J aircraft in 2020. We have 87 aircraft in our backlog as of December 31, 2020. Our C-130J backlog extends into 2025.
+  - **```F-16 Fighting Falcon```** - low-cost, combat-proven, international multi-role fighter;
+![image](https://user-images.githubusercontent.com/85560091/130383598-38e40208-a7d4-4092-a395-0eaf9374dd76.png)
+  - **```F-22 Raptor```** - air dominance and multi-role fifth generation stealth fighter.
+![image](https://user-images.githubusercontent.com/85560091/130383901-1ddae5fe-53c4-4700-b5bd-fdd9a76fed60.png)
