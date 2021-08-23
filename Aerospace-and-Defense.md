@@ -31,6 +31,9 @@ Business Segments | Net Sales | % of Net Sales | U.S. Government | International
      - Aeronautics produces and provides support and sustainment services for the C-130J Super Hercules, as well as upgrades and support services for the legacy C-130 Hercules worldwide fleet. 
      - We delivered 22 C-130J aircraft in 2020. We have 87 aircraft in our backlog as of December 31, 2020. Our C-130J backlog extends into 2025.
   - **```F-16 Fighting Falcon```** - low-cost, combat-proven, international multi-role fighter;
-![image](https://user-images.githubusercontent.com/85560091/130383598-38e40208-a7d4-4092-a395-0eaf9374dd76.png)
+     - ![image](https://user-images.githubusercontent.com/85560091/130383598-38e40208-a7d4-4092-a395-0eaf9374dd76.png)
+     - Aeronautics produces F-16 aircraft for international customers and continues to provide service-life extension, modernization and other upgrade programs for our customers’ F‑16 aircraft, with existing contracts continuing for several years. 
+     - In 2020, the U.S. Government awarded contracts for new production F-16 Block 70/72 aircraft for Taiwan (66 aircraft) and Bulgaria (8 aircraft). 
+     - As of December 31, 2020, we have 128 F-16 aircraft in backlog. 
   - **```F-22 Raptor```** - air dominance and multi-role fifth generation stealth fighter.
 ![image](https://user-images.githubusercontent.com/85560091/130383901-1ddae5fe-53c4-4700-b5bd-fdd9a76fed60.png)
