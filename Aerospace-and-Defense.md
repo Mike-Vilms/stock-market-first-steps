@@ -47,3 +47,6 @@ Business Segments | Net Sales | % of Net Sales | U.S. Government | International
 
 
 ## Huntington Ingalls Industries
+### Customers
+- Our revenues are primarily derived from the U.S. Government, including the U.S. Navy, the U.S. Coast Guard, the DoD, the DoE and other federal agencies. 
+- In 2020, 2019, and 2018, approximately 88%, 87%, and 88%, respectively, of our revenues were generated from the U.S. Navy.
