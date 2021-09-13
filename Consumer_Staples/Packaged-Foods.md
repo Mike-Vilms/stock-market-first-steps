@@ -55,11 +55,11 @@ Key Players
 
 ## General Mills
 ### Categories
-• snacks, including grain, fruit and savory snacks, nutrition bars, and frozen hot snacks;
-• ready-to-eat cereal;
-• convenient meals, including meal kits, ethnic meals, pizza, soup, side dish mixes, frozen breakfast, and frozen entrees;
-• yogurt;
-• wholesome natural pet food; 
-• super-premium ice cream;
-• baking mixes and ingredients; and
-• refrigerated and frozen dough. 
+- snacks, including grain, fruit and savory snacks, nutrition bars, and frozen hot snacks;
+- ready-to-eat cereal;
+- convenient meals, including meal kits, ethnic meals, pizza, soup, side dish mixes, frozen breakfast, and frozen entrees;
+- yogurt;
+- wholesome natural pet food; 
+- super-premium ice cream;
+- baking mixes and ingredients; and
+- refrigerated and frozen dough. 
