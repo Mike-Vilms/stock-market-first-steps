@@ -63,3 +63,15 @@ Key Players
 - super-premium ice cream;
 - baking mixes and ingredients; and
 - refrigerated and frozen dough. 
+
+## Conagra Brands
+### Segments
+Our reporting segments are as follows:
+- Grocery & Snacks
+  - The Grocery & Snacks reporting segment principally includes branded, shelf-stable food products sold in various retail channels in the United States.
+- Refrigerated & Frozen
+  - The Refrigerated & Frozen reporting segment principally includes branded, temperature-controlled food products sold in various retail channels in the United States.
+- International
+  - The International reporting segment principally includes branded food products, in various temperature states, sold in various retail and foodservice channels outside of the United States.
+- Foodservice
+  - The Foodservice reporting segment includes branded and customized food products, including meals, entrees, sauces, and a variety of custom-manufactured culinary products packaged for sale to restaurants and other foodservice establishments primarily in the United States.
