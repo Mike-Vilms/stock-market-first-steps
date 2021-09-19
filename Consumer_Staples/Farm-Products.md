@@ -9,13 +9,27 @@ Products:
 
 
 ## Tyson Foods
-- 139,000 employees
-
 - Reportable segments:
   - Beef
   - Pork
   - Chicken
   - Prepared Foods
+- 139,000 employees
+- Peer group includes:
+  - Archer-Daniels-Midland Company
+  - Bunge Limited
+  - Campbell Soup Company
+  - ConAgra Foods, Inc.
+  - General Mills, Inc.
+  - Hormel Foods Corp.
+  - Kellogg Co.
+  - Kraft Heinz Company
+  - Mondelez International Inc.
+  - PepsiCo, Inc.
+  - Pilgrim's Pride Corporation
+  - The Coca-Cola Company
+  - The Hershey Company
+  - The J.M. Smucker Company
 
 ### Beef
 - **Raw Materials and Source of Supply**:
