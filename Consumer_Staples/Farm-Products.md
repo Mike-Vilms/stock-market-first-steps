@@ -21,7 +21,10 @@ Products:
 - **Raw Materials and Source of Supply**:
   - 
 - **Operations**:
-
+  - Operations related to processing **live fed cattle** and **fabricating dressed beef carcasses** into **primal and subprimal meat cuts** and **case-ready products**
+  | | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
 - **Products**:
 
 - **Customers**:
