@@ -19,8 +19,7 @@ Products:
 
 ### Beef
 
-- **Raw Materials and Source of Supply**:
-  - 
+
 
 - **Operations**:
   - Operations related to processing **live fed cattle** and **fabricating dressed beef carcasses** into **primal and subprimal meat cuts** and **case-ready products**
