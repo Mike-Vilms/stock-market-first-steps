@@ -18,7 +18,8 @@ Products:
   - Prepared Foods
 
 ### Beef
-- Raw Materials and Source of Supply
+- **Raw Materials and Source of Supply**:
+  - The primary raw materials used in our beef operations are **live cattle**
 
 
 - **Operations**:
