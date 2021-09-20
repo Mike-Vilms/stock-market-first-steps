@@ -31,13 +31,16 @@ Products:
   - The Hershey Company
   - The J.M. Smucker Company
 
-### Beef
+#### Beef
 - **Raw Materials and Source of Supply**:
   - The primary raw materials used in our beef operations are **live cattle**
 
 
 - **Operations**:
   - Operations related to processing **live fed cattle** and **fabricating dressed beef carcasses** into **primal and subprimal meat cuts** and **case-ready products**
+  - We do not have facilities of our own to raise cattle but employ cattle buyers located throughout cattle producing areas who visit independent feed yards and public auctions to buy live cattle on the open spot market.
+  - These buyers are trained to select high quality animals, and we continually measure their performance.
+  - We also enter into various risk-sharing and procurement arrangements with producers to secure a supply of livestock for our facilities.
 
 | **Live Fed Cattle** | **Dressed Beef Carcasses** | **Primal Cuts** | **Case-ready Products** |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
@@ -45,6 +48,17 @@ Products:
 
 - **Products**:
 
+- **Customers**:
+  - Products are marketed domestically to *food retailers*,
+  - *Foodservice distributors*
+  - *Restaurant operators*
+  - *Hotel chains*
+  - Noncommercial foodservice establishments such as *schools, healthcare facilities, the military*
+  - *International export markets*
+
+#### Pork
+- **Operations**:
+  - Operations related to processing **live market hogs** and **fabricating pork carcasses** into **primal and sub-primal cuts** and **case-ready products**.
 - **Customers**:
   - Products are marketed domestically to *food retailers*,
   - *Foodservice distributors*
