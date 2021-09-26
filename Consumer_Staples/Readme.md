@@ -18,3 +18,12 @@ Ticker | Title | Details | YF Link
 | **CPB** | Campbell Soup Company | [Details](#Campbell-Soup-Company) | **[YF](https://finance.yahoo.com/quote/CPB)** |
 | **CAG** | Conagra Brands, Inc. | [Details](#Conagra-Brands) | **[YF](https://finance.yahoo.com/quote/CAG)** |
 | **HRL** | Hormel Foods Corporation | [Details](#Hormel-Foods-Corporation) | **[YF](https://finance.yahoo.com/quote/HRL)** |
+
+### ```Food Distribution```
+Ticker | Title | Details | YF Link | Sales 2020
+--- | --- | --- | --- | ---
+| **SYY** | Sysco Corporation | [Details](#Sysco-Corporation) | **[YF](https://finance.yahoo.com/quote/SYY)** | $51.3B
+
+### ```Confectioners```
+
+### ```Beverages—Non-Alcoholic```
