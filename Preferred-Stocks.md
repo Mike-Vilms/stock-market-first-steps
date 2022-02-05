@@ -1,5 +1,8 @@
 # Preferred Stocks
 
+## Lists of preferred shares
+- https://www.stockmarketmba.com/listofpreferredstocks.php
+
 ## JPM
 
 Ticker on YF | Title | SEC Link | Description
